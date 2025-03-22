@@ -1,0 +1,43 @@
+{
+  "name": "smart",
+  "version": "1.0.0",
+  "description": "SmartBase Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "scheduler": "^0.25.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarioSantos21/smart.git"
+  },
+  "keywords": [],
+  "author": "Dario Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarioSantos21/smart/issues"
+  },
+  "homepage": "https://github.com/DarioSantos21/smart#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
